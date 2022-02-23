@@ -259,10 +259,12 @@
 
 ![solidworks image](images/solidworks_q32.png)
 
-- [ ] The parent is Base Feature; the children are Slot Cutout, Skect3, CBORE Hole, and Fillet2
+- [x] The parent is Base Feature; the children are Slot Cutout, Skect3, CBORE Hole, and Fillet2
 - [ ] The parent is Vertical Boss; the childre are Base Feature, Slot Cutout, Sketc3, CBORE Hole, and Fillet2
 - [ ] The parent is Base Feature; the children are Vertical Boss, Slot Cutout, Sketch3, CBORE Holde, and Fillet2
 - [ ] The parents are Vertical Boss and Base Feature; the children are Slot Cutout, Sketch3, CBORE Hole, and Fillet2
+
+[Reference](https://medium.com/@nccs/quickly-view-the-parent-and-child-relationship-in-solidworks-82447d30f855)
 
 #### Q33. In this image, which parts are fixed?
 
